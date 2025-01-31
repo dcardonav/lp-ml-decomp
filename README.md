@@ -1,2 +1,3 @@
-# lp-ml-decomp
-Repository to store code and supplementary material for the research paper on ML assisted LP decomposition
+# Disaggregation of Energy System Models using Machine Learning
+- [Appendix](https://github.com/dcardonav/lp-ml-decomp/blob/main/appendix.pdf)
+
