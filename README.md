@@ -1,3 +1,3 @@
-# Disaggregation of Energy System Models using Machine Learning
+# ESOM Disaggregation with ML
 - [Appendix](https://github.com/dcardonav/lp-ml-decomp/blob/main/appendix.pdf)
 
